@@ -1,9 +1,8 @@
 scikit-learn
 spacy-udpipe
 pymorphy2
-torch==1.8.0+cu111 
-torchvision==0.9.0+cu111 
-torchaudio==0.8.0
+torch-1.7.1 
+torchvision-0.8.2
 matplotlib
 ipymarkup
 lxml
